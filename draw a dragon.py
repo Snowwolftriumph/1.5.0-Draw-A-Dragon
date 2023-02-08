@@ -9,13 +9,12 @@ while square <4:
 # makes the body
 regtangle=1
 while rectangle <4:
-t.forward(100)
-t.left(90)
-t.forward(100)
+    t.forward(100)
+    t.left(90)
+    t.forward(100)
 rectangle=rectangle+1
-# makes the tail  
+# makes the tail
 t.forward(100)  
-while 
 t.left(45)
 t.forward(100)
 t.left(90)
